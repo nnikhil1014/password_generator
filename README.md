@@ -1,6 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-!(https://github.com/nnikhil1014/password_generator/blob/main/project-screenshot.png)
+
+![project-screenshot](https://github.com/user-attachments/assets/220b3629-1d10-40bf-b914-f1ae1ba2f189)
+
 
 This is a basic password generator that generates a unique password each time, based on the user's customizations for length and whether they want to include numbers or special characters. I learned to create this project during my learning from the Chai-aur-react series by Hitesh Choudhary sir on the Chai Aur Code YouTube channel.
 
