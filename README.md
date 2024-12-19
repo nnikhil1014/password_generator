@@ -34,7 +34,7 @@ To update npm to the latest version, run:
 
 ```bash
 npm install npm@latest -g
-
+```
 
 ### Installation
 
@@ -59,17 +59,23 @@ _Below is an example of how you can instruct your audience on installing and set
    npm run start
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- USAGE EXAMPLES -->
-Usage
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+
+<!-- USAGE EXAMPLES -->
+### Usage
 This project can be used to generate secure, customizable passwords. Here's how to use it:
 
 Adjust the Length Slider to set the desired password length.
 Use the checkboxes to include/exclude Numbers and Special Characters.
 Click the "Copy" button to copy the generated password to your clipboard.
-<p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- LICENSE -->
-License
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+
+<!-- LICENSE -->
+### License
 Distributed under the MIT License.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- ACKNOWLEDGMENTS -->
-Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+
+<!-- ACKNOWLEDGMENTS -->
+### Acknowledgments
 This project was built to enhance my React skills and implement concepts such as useState, useEffect, useCallback, and useRef. A huge thanks to the open-source community for providing tools and libraries like React and Tailwind CSS that make development seamless.
